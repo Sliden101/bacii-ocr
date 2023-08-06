@@ -1,0 +1,11 @@
+{
+  "name": "sliOCR",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "jszip": "^3.10.1",
+    "tesseract.js": "^4.1.1"
+  }
+}
